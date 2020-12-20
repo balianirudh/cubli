@@ -8,4 +8,4 @@ systems of this project as I was focusing on team projects during the time perio
 project.
 
 
-<p align="center"><img src="https://github.com/balianirudh/cubli/blob/main/pictures/render1.png" width="400" height="300"/> <img src="https://github.com/balianirudh/cubli/blob/main/pictures/IMG_0322.jpg" width="400" height="300"/></p>
+<p align="center"><img src="https://github.com/balianirudh/cubli/blob/main/pictures/render1.png" width="400" height="300"/> <img src="https://github.com/balianirudh/cubli/blob/main/pictures/IMG_0327%20(1).jpg" width="400" height="300"/></p>
