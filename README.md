@@ -6,3 +6,6 @@ progress made on this project was on the mechanical structures of the project be
 dropped it. Unfortunately, I never made significant progress on the electrical or software
 systems of this project as I was focusing on team projects during the time period of the Cubli
 project.
+
+
+<p align="center"><img src="https://github.com/balianirudh/cubli/blob/master/images/render1.png" width="400" height="300"/> <img src="https://github.com/balianirudh/cubli/blob/master/images/IMG_0322.jpg" width="400" height="300"/></p>
